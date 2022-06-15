@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#lightening log
+lightning_logs/
+
+#dataset
+MNIST/
